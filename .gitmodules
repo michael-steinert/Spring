@@ -13,3 +13,6 @@
 [submodule "SpringBootReactiveMongoDB"]
 	path = SpringBootReactiveMongoDB
 	url = https://github.com/michael-steinert-repository/SpringBootReactiveMongoDB.git
+[submodule "SpringBootActuator"]
+	path = SpringBootActuator
+	url = https://github.com/michael-steinert-repository/SpringBootActuator.git
