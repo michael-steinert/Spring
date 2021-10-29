@@ -37,3 +37,6 @@
 [submodule "SpringBootDataJPA"]
 	path = SpringBootDataJPA
 	url = https://github.com/michael-steinert-repository/SpringBootDataJPA.git
+[submodule "GettingStartedWithSpringBoot"]
+	path = GettingStartedWithSpringBoot
+	url = https://github.com/michael-steinert-repository/GettingStartedWithSpringBoot.git
