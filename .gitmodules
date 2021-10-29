@@ -22,3 +22,6 @@
 [submodule "SpringBootGraphQL"]
 	path = SpringBootGraphQL
 	url = https://github.com/michael-steinert-repository/SpringBootGraphQL.git
+[submodule "FullStackSpringBoot2021"]
+	path = FullStackSpringBoot2021
+	url = https://github.com/michael-steinert-repository/FullStackSpringBoot2021.git
