@@ -55,3 +55,6 @@
 [submodule "SpringBootMasterClass"]
 	path = SpringBootMasterClass
 	url = https://github.com/michael-steinert-repository/SpringBootMasterClass.git
+[submodule "SpringBootEssentials"]
+	path = SpringBootEssentials
+	url = https://github.com/michael-steinert-repository/SpringBootEssentials.git
