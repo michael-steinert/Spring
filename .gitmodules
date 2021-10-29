@@ -28,3 +28,6 @@
 [submodule "SpringBootTesting"]
 	path = SpringBootTesting
 	url = https://github.com/michael-steinert-repository/SpringBootTesting.git
+[submodule "SpringBootMasterClass2021"]
+	path = SpringBootMasterClass2021
+	url = https://github.com/michael-steinert-repository/SpringBootMasterClass2021.git
