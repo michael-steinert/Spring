@@ -43,3 +43,6 @@
 [submodule "SpringBootAWSReactImageUpload"]
 	path = SpringBootAWSReactImageUpload
 	url = https://github.com/michael-steinert-repository/SpringBootAWSReactImageUpload.git
+[submodule "SpringBootJWT"]
+	path = SpringBootJWT
+	url = https://github.com/michael-steinert-repository/SpringBootJWT.git
