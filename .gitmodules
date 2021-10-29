@@ -7,3 +7,6 @@
 [submodule "SpringBootRabbitMQ"]
 	path = SpringBootRabbitMQ
 	url = https://github.com/michael-steinert-repository/SpringBootRabbitMQ.git
+[submodule "SpringBootDataRest"]
+	path = SpringBootDataRest
+	url = https://github.com/michael-steinert-repository/SpringBootDataRest.git
