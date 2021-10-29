@@ -16,3 +16,6 @@
 [submodule "SpringBootActuator"]
 	path = SpringBootActuator
 	url = https://github.com/michael-steinert-repository/SpringBootActuator.git
+[submodule "SpringBootWebFlux"]
+	path = SpringBootWebFlux
+	url = https://github.com/michael-steinert-repository/SpringBootWebFlux.git
