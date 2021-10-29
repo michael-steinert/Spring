@@ -25,3 +25,6 @@
 [submodule "FullStackSpringBoot2021"]
 	path = FullStackSpringBoot2021
 	url = https://github.com/michael-steinert-repository/FullStackSpringBoot2021.git
+[submodule "SpringBootTesting"]
+	path = SpringBootTesting
+	url = https://github.com/michael-steinert-repository/SpringBootTesting.git
