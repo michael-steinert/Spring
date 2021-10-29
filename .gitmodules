@@ -4,3 +4,6 @@
 [submodule "SpringDataRedis"]
 	path = SpringDataRedis
 	url = https://github.com/michael-steinert-repository/SpringDataRedis.git
+[submodule "SpringBootRabbitMQ"]
+	path = SpringBootRabbitMQ
+	url = https://github.com/michael-steinert-repository/SpringBootRabbitMQ.git
