@@ -10,3 +10,6 @@
 [submodule "SpringBootDataRest"]
 	path = SpringBootDataRest
 	url = https://github.com/michael-steinert-repository/SpringBootDataRest.git
+[submodule "SpringBootReactiveMongoDB"]
+	path = SpringBootReactiveMongoDB
+	url = https://github.com/michael-steinert-repository/SpringBootReactiveMongoDB.git
