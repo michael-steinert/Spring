@@ -58,3 +58,6 @@
 [submodule "SpringBootEssentials"]
 	path = SpringBootEssentials
 	url = https://github.com/michael-steinert-repository/SpringBootEssentials.git
+[submodule "SpringBootPersonManagement"]
+	path = SpringBootPersonManagement
+	url = https://github.com/michael-steinert-repository/SpringBootPersonManagement.git
