@@ -19,3 +19,6 @@
 [submodule "SpringBootWebFlux"]
 	path = SpringBootWebFlux
 	url = https://github.com/michael-steinert-repository/SpringBootWebFlux.git
+[submodule "SpringBootGraphQL"]
+	path = SpringBootGraphQL
+	url = https://github.com/michael-steinert-repository/SpringBootGraphQL.git
