@@ -1,3 +1,6 @@
 [submodule "SpringBootJenkinsAndGoogleSSO"]
 	path = SpringBootJenkinsAndGoogleSSO
 	url = https://github.com/michael-steinert-repository/SpringBootJenkinsAndGoogleSSO.git
+[submodule "SpringDataRedis"]
+	path = SpringDataRedis
+	url = https://github.com/michael-steinert-repository/SpringDataRedis.git
