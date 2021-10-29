@@ -46,3 +46,6 @@
 [submodule "SpringBootJWT"]
 	path = SpringBootJWT
 	url = https://github.com/michael-steinert-repository/SpringBootJWT.git
+[submodule "SpringBootSecurityOverview"]
+	path = SpringBootSecurityOverview
+	url = https://github.com/michael-steinert-repository/SpringBootSecurityOverview.git
