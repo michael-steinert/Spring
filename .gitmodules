@@ -52,3 +52,6 @@
 [submodule "SpringSecurityJWT"]
 	path = SpringSecurityJWT
 	url = https://github.com/michael-steinert-repository/SpringSecurityJWT.git
+[submodule "SpringBootMasterClass"]
+	path = SpringBootMasterClass
+	url = https://github.com/michael-steinert-repository/SpringBootMasterClass.git
