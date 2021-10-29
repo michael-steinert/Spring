@@ -31,3 +31,6 @@
 [submodule "SpringBootMasterClass2021"]
 	path = SpringBootMasterClass2021
 	url = https://github.com/michael-steinert-repository/SpringBootMasterClass2021.git
+[submodule "LoginRegistrationBackendAndEmailVerificationWithSpringBoot"]
+	path = LoginRegistrationBackendAndEmailVerificationWithSpringBoot
+	url = https://github.com/michael-steinert-repository/LoginRegistrationBackendAndEmailVerificationWithSpringBoot.git
